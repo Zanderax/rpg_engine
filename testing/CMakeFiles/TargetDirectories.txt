@@ -1,0 +1,3 @@
+/home/wizard/rpg_engine/testing/CMakeFiles/edit_cache.dir
+/home/wizard/rpg_engine/testing/CMakeFiles/rebuild_cache.dir
+/home/wizard/rpg_engine/testing/CMakeFiles/runTests.out.dir
