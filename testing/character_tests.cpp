@@ -20,3 +20,4 @@ TEST( CharacterTest, Stats )
 	ASSERT_EQ( s.AP, 3 );
 	ASSERT_EQ( s.ATK, 5 );
 }
+

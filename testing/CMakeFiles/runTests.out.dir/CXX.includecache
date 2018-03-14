@@ -11,6 +11,8 @@ battle.hpp
 /home/wizard/rpg_engine/src/battle.hpp
 
 /home/wizard/rpg_engine/src/battle.hpp
+character.hpp
+/home/wizard/rpg_engine/src/character.hpp
 
 /home/wizard/rpg_engine/src/character.cpp
 character.hpp

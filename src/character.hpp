@@ -20,6 +20,14 @@ public:
 	void SetAP( int AP ) { stats_.AP = AP; };
 	void SetATK( int ATK ) { stats_.ATK = ATK; };
 
+	void ModHP( int HPd ) { stats_.HP += HPd; };
+	void ModAP( int APd ) { stats_.AP += APd; };
+	void ModATK( int ATKd ) { stats_.ATK += ATKd; };
+
+	int GetHP() { return stats_.HP; };
+	int GetAP() { return stats_.AP; };
+	int GetATK() { return stats_.ATK; };
+
 private:
 	std::string name_;
 	Stats stats_;

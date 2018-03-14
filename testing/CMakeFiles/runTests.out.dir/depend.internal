@@ -4,6 +4,9 @@
 CMakeFiles/runTests.out.dir/home/wizard/rpg_engine/src/battle.cpp.o
  /home/wizard/rpg_engine/src/battle.cpp
  /home/wizard/rpg_engine/src/battle.hpp
+ /home/wizard/rpg_engine/src/character.hpp
+ /home/wizard/rpg_engine/src/defines.hpp
+ /home/wizard/rpg_engine/src/stats.hpp
 CMakeFiles/runTests.out.dir/home/wizard/rpg_engine/src/character.cpp.o
  /home/wizard/rpg_engine/src/character.cpp
  /home/wizard/rpg_engine/src/character.hpp
